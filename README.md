@@ -22,6 +22,16 @@ avbar);
 - сетка популярных товаров (ow, col-12, col-md-6, col-lg-4);
 - подвал страницы.
 
+## Практическая работа 10
+
+Выполнено:
+- единая Bootstrap-навигация;
+- страницы catalog.html, product.html, order.html;
+- компоненты 
+avbar, card, tn, adge, lert, modal, ccordion;
+- формы с orm-control, orm-select, input-group, orm-check;
+- обновлён css/custom.css.
+
 ## Используемые технологии
 
 - HTML5;
@@ -39,3 +49,4 @@ kr2-bootstrap-shop/
 ├── images/
 ├── README.md
 └── .gitignore
+

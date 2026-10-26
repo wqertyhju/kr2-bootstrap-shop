@@ -10,3 +10,12 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.placeholder-image {
+  min-height: 320px;
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
