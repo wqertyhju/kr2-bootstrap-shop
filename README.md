@@ -15,11 +15,10 @@
 Реализовано:
 - подключение Bootstrap через CDN;
 - подключение css/custom.css;
-- шапка страницы (
-avbar);
+- шапка страницы (navbar);
 - hero-блок на сетке;
-- блок преимуществ (ow, col-md-4);
-- сетка популярных товаров (ow, col-12, col-md-6, col-lg-4);
+- блок преимуществ (row, col-md-4);
+- сетка популярных товаров (row, col-12, col-md-6, col-lg-4);
 - подвал страницы.
 
 ## Практическая работа 10
@@ -27,9 +26,8 @@ avbar);
 Выполнено:
 - единая Bootstrap-навигация;
 - страницы catalog.html, product.html, order.html;
-- компоненты 
-avbar, card, tn, adge, lert, modal, ccordion;
-- формы с orm-control, orm-select, input-group, orm-check;
+- компоненты navbar, card, btn, badge, alert, modal, accordion;
+- формы с form-control, form-select, input-group, form-check;
 - обновлён css/custom.css.
 
 ## Используемые технологии
@@ -44,9 +42,20 @@ avbar, card, tn, adge, lert, modal, ccordion;
 
 kr2-bootstrap-shop/
 ├── index.html
+├── catalog.html
+├── product.html
+├── order.html
 ├── css/
 │   └── custom.css
 ├── images/
 ├── README.md
 └── .gitignore
 
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://wqertyhju.github.io/kr2-bootstrap-shop/
+
+## Автор
+
+ФИО: Петренко Владимир Николаевич
+Группа: ЭФБО-17-25
